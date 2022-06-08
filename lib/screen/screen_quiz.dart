@@ -151,5 +151,6 @@ class _QuizScreenState extends State<QuizScreen> {
         ),
       );
     }
+    return _children;
   }
 }

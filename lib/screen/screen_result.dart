@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 class ResultScreen extends StatelessWidget{
   List<int> answers;
   List<Quiz> quizs;
-  ResultScreen({required this.answers, required this.quizs})
+  ResultScreen({required this.answers, required this.quizs});
 
   @override
   Widget build(BuildContext context){
