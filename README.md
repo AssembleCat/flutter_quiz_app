@@ -1,5 +1,8 @@
 # django_quiz_app
 
+https://github.com/AssembleCat/django_quiz_app 와 연계된 Repo
+퀴즈 Flutter앱
+
 A new Flutter project.
 
 ## Getting Started
